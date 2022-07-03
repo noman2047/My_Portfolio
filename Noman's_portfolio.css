@@ -1,0 +1,42 @@
+
+
+           .skill{
+                    border: 3px solid red;
+                    width: 210px;
+                    padding: 3px;
+                    background-color: white;
+                }
+                
+                .skill2{
+                    border: 3px solid red;
+                    width: 270px;
+                    padding: 3px;
+                    background-color:white;
+                }
+                .skill3{
+                    border: 3px solid red;
+                    width: 260px;
+                    padding: 3px;
+                    background-color:white;
+                }
+              .about{
+                    text-align: center;
+                    font-size: 30px;
+                    color:white;
+                    font-weight: bold;
+                    font-family: cursive;
+                    border: 3px solid slategrey;
+                    width: 280px;
+                    padding: 3px;
+                    background-color:slategrey;
+                    margin-left: 500px;
+                }
+                .submit{
+                    text-decoration: none;
+                    border: none;
+                }
+                th{
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: crimson;
+                }

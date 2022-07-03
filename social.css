@@ -1,0 +1,51 @@
+
+
+.main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   
+
+}
+
+.social{
+    background-color: #f5f6fa;
+    width: 60px;
+    height: 60px;
+    border-radius: 80px;
+    text-align: center;
+    line-height: 75px;
+    box-shadow: 2px 4px 2px 2px;
+    margin: 10px;
+}
+a i{
+    transition: all .3s linear;
+}
+
+
+a:hover i{
+    transform: scale(1.7);
+    
+}
+
+.fa-facebook{
+    color:#355998;
+
+}
+
+.fa-youtube{
+    color: #FF0000;
+    
+}
+
+.fa-instagram{
+    color: #405DE6;
+}
+
+.fa-linkedin{
+    color: #0e76a8;
+}
+
+.fa-twitter{
+    color: #00acee;
+}
